@@ -1,0 +1,14 @@
+**QA Measuring Tool**
+
+This tool can be used to do quick and easy measurement checks of the manufactured tourniquet.
+Just print the pdf file and cut it out around the solid line. 
+
+https://github.com/GliaX/tourniquet/new/master/assembly_instructions/quality_control/tourniquet_measuring_tool.pdf
+
+Here are photos of how the tool is used to measure various parts of the tourniquet during QA checks:
+
+![For Box Stitch measurement](https://github.com/GliaX/tourniquet/new/master/assembly_instructions/quality_control/MToolBoxStitch.jpg "Box Stitch Measurement")
+
+![For Bridge measurement](https://github.com/GliaX/tourniquet/new/master/assembly_instructions/quality_control/MToolBridge.jpg "Bridge Measurement")
+
+![For Slack measurement](https://github.com/GliaX/tourniquet/new/master/assembly_instructions/quality_control/MToolSlack.jpg "Slack Measurement")
